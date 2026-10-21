@@ -1,8 +1,8 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22%22%2C%22name%22%3A%22Alexandria%20Eguia%22%2C%22email%22%3A%22eguiaalexandria%40gmail.com%22%2C%22linkedin%22%3A%22www.linkedin.com%2Fin%2Falexandria-eguia-a4b323204%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22Driven%20by%20a%20passion%20for%20technology%20and%20continuous%20learning%2C%20I%20am%20actively%20building%20a%20foundation%20for%20a%20rewarding%20career%20in%20IT%20support.%20My%20focus%20is%20on%20developing%20strong%20technical%20troubleshooting%20abilities%20alongside%20clear%2C%20empathetic%20communication%20skills%20to%20effectively%20resolve%20user%20issues.%20I%20thrive%20on%20diagnosing%20system%20challenges%20and%20learning%20new%20technologies%20to%20keep%20business%20operations%20running%20smoothly.%20I%20am%20eager%20to%20apply%20my%20technical%20aptitude%2C%20customer-focused%20mindset%2C%20and%20dedication%20to%20growth%20in%20an%20entry-level%20help%20desk%20role%20where%20I%20can%20support%20team%20members%20and%20deliver%20reliable%20solutions.%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%22PC%20Assembly%22%2C%22Operating%20Systems%22%2C%22Computer%20Hardware%22%2C%22Troubleshooting%22%2C%22Storage%20Devices%22%2C%22BIOS%2FUEFI%22%2C%22Virtualization%22%2C%22Command%20Line%22%2C%22DNS%22%2C%22VLANs%22%2C%22Wi-Fi%22%2C%22Routing%20%26%20Switching%22%2C%22Network%2B%22%2C%22Firewalls%22%2C%22DHCP%22%2C%22Microsoft%20Azure%22%2C%22Google%20Workspace%22%5D%2C%22headlines%22%3A%5B%22IT%20Professional%22%2C%22Help%20Desk%20Specialist%22%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%7B%22name%22%3A%22Cables%20and%20connectors%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22AlexandriaEguia%22%2C%22name%22%3A%22Alexandria%20Eguia%22%2C%22email%22%3A%22eguiaalexandria%40gmail.com%22%2C%22linkedin%22%3A%22www.linkedin.com%2Fin%2Falexandria-eguia-a4b323204%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22Driven%20by%20a%20passion%20for%20technology%20and%20continuous%20learning%2C%20I%20am%20actively%20building%20a%20foundation%20for%20a%20rewarding%20career%20in%20IT%20support.%20My%20focus%20is%20on%20developing%20strong%20technical%20troubleshooting%20abilities%20alongside%20clear%2C%20empathetic%20communication%20skills%20to%20effectively%20resolve%20user%20issues.%20I%20thrive%20on%20diagnosing%20system%20challenges%20and%20learning%20new%20technologies%20to%20keep%20business%20operations%20running%20smoothly.%20I%20am%20eager%20to%20apply%20my%20technical%20aptitude%2C%20customer-focused%20mindset%2C%20and%20dedication%20to%20growth%20in%20an%20entry-level%20help%20desk%20role%20where%20I%20can%20support%20team%20members%20and%20deliver%20reliable%20solutions.%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%22PC%20Assembly%22%2C%22Operating%20Systems%22%2C%22Computer%20Hardware%22%2C%22Troubleshooting%22%2C%22Storage%20Devices%22%2C%22BIOS%2FUEFI%22%2C%22Virtualization%22%2C%22Command%20Line%22%2C%22DNS%22%2C%22VLANs%22%2C%22Wi-Fi%22%2C%22Routing%20%26%20Switching%22%2C%22Network%2B%22%2C%22Firewalls%22%2C%22DHCP%22%2C%22Microsoft%20Azure%22%2C%22Google%20Workspace%22%5D%2C%22headlines%22%3A%5B%22IT%20Professional%22%2C%22Help%20Desk%20Specialist%22%2C%22Cybersecurity%20Professional%22%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%7B%22name%22%3A%22Cables%20and%20connectors%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Configure%20Printers%20and%20External%20Devices%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%5D%2C%222%22%3A%5B%7B%22name%22%3A%22Capture%20Day%204%20AI%20Tutor%20Prompt%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Capture%20Teachable%20Machine%20Learning%20Lab%20Link%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Prompt%20Engineering%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Capture%20MIT%20Playground%20file%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
-
+<img src="https://github.com/AlexandriaEguia.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
 
 # Hi there, I'm Alexandria Eguia
 
@@ -10,7 +10,7 @@
 
 *IT Professional*
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandria-eguia-a4b323204) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eguiaalexandria@gmail.com)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandria-eguia-a4b323204) [![GITHUB](https://img.shields.io/badge/GITHUB-%40AlexandriaEguia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexandriaEguia) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eguiaalexandria@gmail.com)
 
 </div>
 
@@ -40,13 +40,19 @@ Driven by a passion for technology and continuous learning, I am actively buildi
 | Lab / Project | Description | Status | Link |
 |---|---|---|---|
 | Cables and connectors | — | ✅ Complete | — |
+| Configure Printers and External Devices | — | ✅ Complete | — |
 
 </details>
 
 <details>
 <summary><strong>Course 2: Computer & Security Essentials</strong></summary>
 
-*No labs added yet.*
+| Lab / Project | Description | Status | Link |
+|---|---|---|---|
+| Capture Day 4 AI Tutor Prompt | — | ✅ Complete | — |
+| Capture Teachable Machine Learning Lab Link | — | ✅ Complete | — |
+| Prompt Engineering | — | ✅ Complete | — |
+| Capture MIT Playground file | — | ✅ Complete | — |
 
 </details>
 
