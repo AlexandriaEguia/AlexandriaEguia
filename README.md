@@ -4,7 +4,7 @@
 
 <img src="https://github.com/AlexandriaEguia.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
 
-# Hi there, I'm Alexandria Eguia
+# Hello there, I'm Alexandria Eguia
 
 **Alexandria Eguia**
 
