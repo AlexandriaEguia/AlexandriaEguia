@@ -8,7 +8,7 @@
 
 **Alexandria Eguia**
 
-*IT Professional*
+*ITSA Student*
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandria-eguia-a4b323204) [![GITHUB](https://img.shields.io/badge/GITHUB-%40AlexandriaEguia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexandriaEguia) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eguiaalexandria@gmail.com)
 
